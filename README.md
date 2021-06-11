@@ -1,3 +1,3 @@
 # Software-Nest
- Site desenvolvido para apresentação de uma empresa no Projeto Integrador da faculdade.
+ Site adaptado para a apresentação de uma empresa no Projeto Integrador da faculdade.
 
